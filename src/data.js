@@ -16,7 +16,6 @@ import sharhimg3 from "./img/sharhimg3.webp";
 import AfzalliklarImg1 from './img/AfzalliklarImg1.webp'
 import AfzalliklarImg2 from './img/AfzalliklarImg2.webp'
 import AfzalliklarImg3 from './img/AfzalliklarImg3.webp'
-import yangiliklarimg1 from './img/yangiliklarimg1.svg'
 
 export const jismoniyShaxslarData = [
   {
